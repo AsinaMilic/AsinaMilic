@@ -4,20 +4,9 @@
 
 <h1 align="center">👋 Hello, I'm AleksA 😎</h1>
 <p align="center">
-  <em>Data Engineer | Python • SQL • Big Data • Power BI • ML/AI • Math</em><br/>
+  <em>Data/AI Guy | Python • SQL • Big Data • Power BI • ML/AI • Math</em><br/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aleksa-milic">
-    <img src="https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aleksamilic2224@gmail.com">
-    <img src="https://img.shields.io/badge/✉️-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/crysis.nano.3">
-    <img src="https://img.shields.io/badge/📘-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
